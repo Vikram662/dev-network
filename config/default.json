@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://vikram662:User@123@devconnector.obqlo.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"DevConnector@8332",
+    "githubClientId":"5213d2ba450cea7fccab",
+    "githubSecret":"5dfbc879ec752cc1fd26463ffb45c9977124195b"
+}
